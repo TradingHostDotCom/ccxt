@@ -1,0 +1,7 @@
+{
+  "exchange": "binance",
+  "api_key": "",
+  "api_secret": "",
+  "testnet": true,
+  "symbols": ["BTC/USDT", "ETH/USDT"]
+}
